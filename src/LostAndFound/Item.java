@@ -1,4 +1,4 @@
-package LostAndFound;
+package LostAndFound.src.LostAndFound;
 
 import java.io.Serializable;
 import java.util.Objects;

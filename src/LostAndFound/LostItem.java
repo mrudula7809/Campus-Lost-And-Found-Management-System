@@ -1,11 +1,11 @@
-package LostAndFound;
+package LostAndFound.src.LostAndFound;
 
 import java.util.Scanner;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeParseException;
 
-public class LostItem extends Item{
+public class LostItem extends Item {
 
     private String dateLost;
     private String status; // Lost, Found, Resolved

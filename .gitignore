@@ -1,0 +1,16 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Java
+*.class
+out/
+target/
+build/
+
+# Serialized runtime files
+*.dat
+
+# OS
+.DS_Store
+Thumbs.db
